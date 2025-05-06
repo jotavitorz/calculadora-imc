@@ -3,25 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Projeto IMC</title>
 </head>
 <body>
 
-    <h1>Calculadora IMC</h1>
-    
-    <form onsubmit="return calcular(event)">
+    <header class="header">
+        <h1>Calculadora IMC</h1>
+    </header>
 
-        <label>Peso (Kg):</label> <br /> 
-        <input type="text" name="peso" id="peso" placeholder="Exemplo 65"> <br /> <br />
-    
-        <label>Altura (m):</label> <br />
-        <input type="text" name="altura" id="altura" placeholder="Exemplo 1.90"> <br /> <br />
-    
-        <button type="submit" >Calcular IMC</button> <br /> <br />
+    <main class="main">
 
-    </form>
+        <div class="container">
+            
+    
+            <form class="form" onsubmit="return calcular(event)">
+        
+                <label>Peso (Kg):</label>
+                <input type="text" name="peso" id="peso" placeholder="Exemplo 65"> 
+            
+                <label>Altura (m):</label>
+                <input type="text" name="altura" id="altura" placeholder="Exemplo 1.90">
+            
+                <button class="button" type="submit" >Calcular IMC</button>
+        
+            </form>
+        
+            <div id="result"></div>
+        </div>
 
-    <div id="resultado"></div>
+    </main>
 
     <script src="script.js"></script>
 </body>
