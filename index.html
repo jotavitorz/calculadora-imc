@@ -9,9 +9,9 @@
 
     <h1 id="title">Calculadora IMC</h1>
 
-    <form id="form">
+    <form onsubmit="return calcularIMC(event)">
 
-        <label for="altura">Digite sua Altura:</label>
+        <label for="altura">Digite sua Altura</label>
         <input type="text" id="altura" name="altura" placeholder="1.80" required>
 
         <label for="peso">Digite seu Peso:</label>
@@ -25,5 +25,6 @@
 
     </div>
 
+    <script src="script.js"></script>
 </body>
 </html>
