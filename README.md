@@ -8,7 +8,7 @@ O usuário informa seu peso e altura, e o sistema retorna o valor do IMC junto c
 ## 📸 Demonstração
 
 
-<img height="500" width="1000" src="./assets/screenshot.png" alt="Calculadora IMC Preview" />
+<img height="400" width="600" src="./assets/screenshot.png" alt="Calculadora IMC Preview" />
 
 
 ---
