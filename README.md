@@ -1,7 +1,6 @@
 # 🧮 Calculadora IMC
 
-Uma aplicação simples e responsiva para calcular o **Índice de Massa Corporal (IMC)**, feita com **HTML, CSS e JavaScript**.  
-O usuário informa seu peso e altura, e o sistema retorna o valor do IMC junto com uma mensagem personalizada sobre sua classificação.
+Uma aplicação simples e responsiva para calcular o **Índice de Massa Corporal (IMC)**, feita com **HTML, CSS e JavaScript**. O usuário informa seu peso e altura, e o sistema retorna o valor do IMC junto com uma mensagem personalizada sobre sua classificação.
 
 ---
 
