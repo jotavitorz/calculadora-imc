@@ -7,8 +7,9 @@ O usuário informa seu peso e altura, e o sistema retorna o valor do IMC junto c
 
 ## 📸 Demonstração
 
-![Preview do projeto](screenshot.png)  
-*(adicione um print da tela inicial ou do resultado aqui)*
+
+<img height="500" width="1000" src="./assets/screenshot.png" alt="Calculadora IMC Preview" />
+
 
 ---
 
@@ -71,5 +72,5 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ## 👨‍💻 Autor
 
-Feito com ❤️ por [João Vitor](https://github.com/seu-usuario) 🖖
+Feito com <strong> < / > </strong> por [João Vitor](https://github.com/seu-usuario) 🖖
 
