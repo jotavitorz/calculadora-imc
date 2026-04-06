@@ -2,10 +2,10 @@
 
 Uma aplicação simples e responsiva para calcular o **Índice de Massa Corporal (IMC)**, feita com **HTML, CSS e JavaScript**. O usuário informa seu peso e altura, e o sistema retorna o valor do IMC junto com uma mensagem personalizada sobre sua classificação.
 
+
 ---
 
 ## 📸 Demonstração
-
 
 <img height="400" width="600" src="./assets/screenshot.png" alt="Calculadora IMC Preview" />
 
@@ -48,7 +48,7 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
+   https://github.com/jotavitorz/calculadora-imc.git
     ````
 
 2. Acesse a pasta do projeto:
